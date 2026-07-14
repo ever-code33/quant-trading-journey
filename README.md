@@ -1,1 +1,1 @@
-# quant-trading-journey-
+# quant-trading-journey
